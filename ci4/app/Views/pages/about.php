@@ -4,7 +4,7 @@
 <h1 style="text-align: center;"><span style="color: #000000; background-color: #ffff00;">Euri</span></h1>
 <p style="text-align: center;"><span style="color: #ffffff; background-color: #0000ff;">2021-140629</span></p>
 <p style="text-align: center;"><span style="background-color: #ffff00;">BSIT-MI211</span></p>
-<p style="text-align: right;"><img style="font-size: 14px; display: block; margin-left: auto; margin-right: auto;" src="https://scontent.fmnl33-1.fna.fbcdn.net/v/t39.30808-6/318246022_5827743963939036_2227833352607504001_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=09cbfe&amp;_nc_eui2=AeFeSd_cVv1VXFlxh5GfnA_EF3rBAWdU1LwXesEBZ1TUvAuzjPwtRxc-XrS14qkdjS-cRrl18arOuweFaDJ4bQ7E&amp;_nc_ohc=WHt57jwFyGUAX8_AtHY&amp;_nc_ht=scontent.fmnl33-1.fna&amp;oh=00_AfA4749hAl9FeLQaAKJf6j6nPUOnU47iAH5AXDcubzbOIQ&amp;oe=63EC0248" alt="facebook profile picture" width="144" height="144" /></p>
+<p style="text-align: right;"><img style="font-size: 14px; display: block; margin-left: auto; margin-right: auto;" src="./image/profilepic.jpg" alt="facebook profile picture" width="144" height="144" /></p>
 <table style="width: 100%; border-collapse: collapse; background-color: blue;" border="1">
 <tbody>
 <tr>
