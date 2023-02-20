@@ -1,0 +1,54 @@
+CRITICAL - 2023-02-17 00:34:22 --> syntax error, unexpected token "<", expecting end of file
+in APPPATH\Views\Templates\Header.php on line 5.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('templates/header', [], true)
+ 3 APPPATH\Controllers\Pages.php(23): view('templates/header', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pages->view('home')
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-17 00:34:26 --> syntax error, unexpected token "<", expecting end of file
+in APPPATH\Views\Templates\Header.php on line 5.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('templates/header', [], true)
+ 3 APPPATH\Controllers\Pages.php(23): view('templates/header', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pages->view('home')
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-17 00:34:49 --> syntax error, unexpected token "<", expecting end of file
+in APPPATH\Views\Templates\Header.php on line 7.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('templates/header', [], true)
+ 3 APPPATH\Controllers\Pages.php(23): view('templates/header', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pages->view('home')
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-17 00:37:46 --> syntax error, unexpected token "<", expecting end of file
+in APPPATH\Views\Templates\Header.php on line 7.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('templates/header', [], true)
+ 3 APPPATH\Controllers\Pages.php(23): view('templates/header', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pages->view('home')
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-17 00:40:41 --> syntax error, unexpected token "<", expecting end of file
+in APPPATH\Views\Templates\Header.php on line 7.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('templates/header', [], true)
+ 3 APPPATH\Controllers\Pages.php(23): view('templates/header', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pages->view('home')
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-17 00:42:56 --> syntax error, unexpected token "<", expecting end of file
+in APPPATH\Views\Templates\Header.php on line 7.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('templates/header', [], true)
+ 3 APPPATH\Controllers\Pages.php(23): view('templates/header', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pages->view('home')
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
