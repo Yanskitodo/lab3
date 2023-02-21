@@ -4,7 +4,7 @@
 <h1 style="text-align: center;"><span style="color: #000000; background-color: #ffff00;">Euri</span></h1>
 <p style="text-align: center;"><span style="color: #ffffff; background-color: #0000ff;">2021-140629</span></p>
 <p style="text-align: center;"><span style="background-color: #ffff00;">BSIT-MI211</span></p>
-<p style="text-align: right;"><img style="font-size: 14px; display: block; margin-left: auto; margin-right: auto;" src="./image/profilepic.jpg" alt="facebook profile picture" width="144" height="144" /></p>
+<p style="text-align: right;"><img style="font-size: 14px; display: block; margin-left: auto; margin-right: auto;" src="./img/profilepic.jpg" alt="facebook profile picture" width="144" height="144" /></p>
 <table style="width: 100%; border-collapse: collapse; background-color: blue;" border="1">
 <tbody>
 <tr>
