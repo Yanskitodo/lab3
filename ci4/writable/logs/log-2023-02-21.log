@@ -1,3 +1,6 @@
 CRITICAL - 2023-02-21 01:17:36 --> Cannot use App\Controllers\Pages as Pages because the name is already in use
 in APPPATH\Config\Routes.php on line 38.
  1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-02-21 11:52:07 --> Cannot redeclare test_input() (previously declared in C:\wamp64\www\lab3\ci4\app\Views\Templates\Header.php:78)
+in APPPATH\Views\pages\about.php on line 78.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
