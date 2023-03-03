@@ -8,6 +8,8 @@ class NewsModel extends Model
 {
     protected $table = 'eplascano_news';
 
+    protected $allowedFields = ['title', 'slug', 'body'];
+
     public function getNews($slug = false)
     {
         if ($slug === false) {
@@ -17,5 +19,4 @@ class NewsModel extends Model
         return $this->where(['slug' => $slug])->first();
     }
 
-    protected $allowedFields = ['title', 'slug', 'body'];
 }
